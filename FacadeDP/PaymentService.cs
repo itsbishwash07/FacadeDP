@@ -7,6 +7,5 @@
             Console.WriteLine($"Payment of {amount} for item {item} has been processed.");
         }
     }
-    {
-    }
+    
 }
